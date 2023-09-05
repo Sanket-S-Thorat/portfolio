@@ -7,7 +7,6 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import git from "./tech/git.png";
 import javascript from "./tech/javascript.png";
@@ -20,7 +19,6 @@ import azure from "./tech/azure.svg";
 import terraform from "./tech/terraform.svg";
 import bash from "./tech/bash.png";
 import linux from "./tech/linux.svg";
-import devops from "./tech/devops.png";
 import python from "./tech/python.png";
 import kubernetes from "./tech/kubernetes.svg";
 
@@ -40,7 +38,6 @@ export {
   github,
   menu,
   close,
-  css,
   docker,
   git,
   javascript,
@@ -53,7 +50,6 @@ export {
   bash,
   python,
   ansible,
-  devops,
   kubernetes,
   infosys,
   tcs,
