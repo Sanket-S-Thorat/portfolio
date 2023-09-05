@@ -22,13 +22,14 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import ansible from "./tech/ansible.png";
-import aws from "./tech/aws.png";
-import azure from "./tech/azure.png";
-import terraform from "./tech/terraform.png";
+import aws from "./tech/aws.svg";
+import azure from "./tech/azure.svg";
+import terraform from "./tech/terraform.svg";
 import bash from "./tech/bash.png";
-import linux from "./tech/linux.png";
+import linux from "./tech/linux.svg";
 import devops from "./tech/devops.png";
 import python from "./tech/python.png";
+import kubernetes from "./tech/kubernetes.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -72,6 +73,7 @@ export {
   python,
   ansible,
   devops,
+  kubernetes,
   meta,
   shopify,
   starbucks,
