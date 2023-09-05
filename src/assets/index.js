@@ -26,6 +26,9 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import infosys from "./company/infosys.png";
+import tcs from "./company/tcs.png";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -56,6 +59,8 @@ export {
   shopify,
   starbucks,
   tesla,
+  infosys,
+  tcs,
   carrent,
   jobit,
   tripguide,
