@@ -21,7 +21,14 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-impoer
+import ansible from "./tech/ansible.png";
+import aws from "./tech/aws.png";
+import azure from "./tech/azure.png";
+import terraform from "./tech/terraform.png";
+import bash from "./tech/bash.png";
+import linux from "./tech/linux.png";
+import devops from "./tech/devops.png";
+import python from "./tech/python.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -57,6 +64,14 @@ export {
   tailwind,
   typescript,
   threejs,
+  aws,
+  azure,
+  terraform,
+  linux,
+  bash,
+  python,
+  ansible,
+  devops,
   meta,
   shopify,
   starbucks,
