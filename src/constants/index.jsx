@@ -124,10 +124,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2021 - May 2022",
     points: [
-      "Designed and managed automated CI/CD pipelines using Banzai pipelines to ensure smooth code deployment.",
-      "Leveraged Terraform to provision servers and cloud services, improving infrastructure management efficiency.",
-      "Orchestrated regular SAST and streamlined Application Onboarding on SonarQube Dashboard.",
-      "Automated non-compliance remediation with AWS Lambda and Python/JavaScript.",
+      "Administered and monitored RDS databases, ensuring 99.9% uptime and smooth service delivery.",
+      "Designed and maintained AWS cloud database infrastructure with Terraform Cloud, resulting in a 20% improvement in resource provisioning time.",
+      "Automated database backup, recovery, and disaster procedures using AWS Lambda, achieving a seamless data recovery.",
+      "Conducted AWS Rabbit MQ and Lambda Mapping Templates POC, eliminating the chances of IBM MQ + IBM IIB vendor lock-in by 30%.",
+      "Created AWS SCT reports to evaluate RDS-Oracle and RDS-MySQL conversion to RDS-Maria, resulting in a 28% cost reduction for database operations.",
     ],
   },
   {
@@ -137,11 +138,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - Present",
     points: [
-      "Administered and monitored RDS databases, ensuring smooth service delivery.",
-      "Designed and maintained AWS cloud database infrastructure with Terraform Cloud.",
-      "Automated database backup, recovery, and disaster procedures for improved data availability using AWS Lambda.",
-      "Conducted AWS Rabbit MQ and Lambda Mapping Temolates POC to reduce IBM MQ + IBM IIB vendor lock-in.",
-      "Created AWS SCT reports to evaluate RDS-Oracle and RDS-MySQL conversion to RDS-Maria",
+      "Designed and managed automated CI/CD pipelines using Banzai pipelines to ensure smooth code deployment, resulting in a 30% reduction in deployment time.",
+      "Leveraged Terraform to provision servers and cloud services, improving infrastructure management efficiency.",
+      "Orchestrated regular SAST and streamlined Application Onboarding on SonarQube Dashboard, reducing vulnerabilities by 40%.",
+      "Automated non-compliance remediation with AWS Lambda and Python/JavaScript, resulting in a more than 90% reduction in common non-compliance incidents.",
     ],
   },
 ];
