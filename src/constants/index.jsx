@@ -142,6 +142,7 @@ const experiences = [
       "Leveraged Terraform to provision servers and cloud services, improving infrastructure management efficiency.",
       "Orchestrated regular SAST and streamlined Application Onboarding on SonarQube Dashboard, reducing vulnerabilities by 40%.",
       "Automated non-compliance remediation with AWS Lambda and Python/JavaScript, resulting in a more than 90% reduction in common non-compliance incidents.",
+      "Managed AWS Config rules and automation with AWS Systems Manager, ensuring full compliance and a 70% reduction in manual tasks."
     ],
   },
 ];
