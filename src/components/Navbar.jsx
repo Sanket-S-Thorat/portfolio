@@ -45,7 +45,7 @@ const Navbar = () => {
               {" "}
               {active === "Resume" ? (
                 <a
-                  href="https://docs.google.com/document/d/1PBMBeKF6oGuEwHNTAMyCi95MUfIFOe1Q/edit?usp=share_link&ouid=103551954997057107855&rtpof=true&sd=true"
+                  href="https://drive.google.com/file/d/1b-Bs3Hr6gwdZ8AjADrmd-TGXE5MPIcoR/view?usp=sharing"
                   target="_blank"
                 >
                   {link.title}
